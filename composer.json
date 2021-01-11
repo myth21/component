@@ -1,0 +1,21 @@
+{
+    "name": "myth21/component",
+    "description": "Helpers, components and so on",
+    "keywords": ["php", "helper", "component"],
+    "homepage": "https://github.com/myth21/component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan M.",
+            "email": "ivan.malukhin@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "myth21\\component\\": ""
+        }
+    }
+}
